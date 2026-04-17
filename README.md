@@ -23,3 +23,6 @@ Findings:
 The system detected repeated failed authentication attempts, indicating a possible brute force attack.
 Conclusion:
 Wazuh SIEM can effectively detect brute force attacks in real time, helping security analysts respond quickly to potential threats.
+
+Author
+NASIRU IBRAHIM
